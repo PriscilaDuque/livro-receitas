@@ -1,5 +1,12 @@
-# Livro de Receitas
-Olá! Bem Vindo ao livro de receitas
- - Strogonoff de frango
- - Pavê
- - Biscoito de Chocolate
+# Livro de Receitas Mineiras
+Olá! Bem-Vindo ao meu livro de Receitas
+ - Pão de Queijo
+ - Broa de Fubá
+ - Biscoito de Polvilho
+ - Frango com Quiabo 
+ - Feijão-Tropeiro
+ - Tutu de Feijão
+ - Angu
+ - Vaca Atolada
+ - Torresmo
+ - Doce de Leite
