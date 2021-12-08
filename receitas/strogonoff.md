@@ -1,5 +1,6 @@
-# Strogonoff de Frango
+# Receitas Tradicionais
 
+## Strogonoff de Frango
 ### Ingredientes
  - 1 kg de filé de frango em tiras finas
  - 4 colheres (sopa) de manteiga
